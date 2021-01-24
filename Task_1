@@ -1,0 +1,18 @@
+--Quesry 1:
+select courses.Name as Courses, teachers.Name as Teachers from courses, teachers
+where courses.Id = teachers.Id
+
+--Query 2:
+select top 1 teachers.Name from teachers
+join courses
+on courses.teacher_id = teachers.Id 
+group by teachers.Name
+order by COUNT(*) desc
+
+--Query 3:
+select top 1 teachers.Name from teachers
+join courses
+on courses.teacher_id != teachers.Id 
+group by teachers.Name
+order by COUNT(*) desc
+
