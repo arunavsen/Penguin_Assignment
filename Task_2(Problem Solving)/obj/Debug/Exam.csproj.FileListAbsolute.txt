@@ -1,0 +1,6 @@
+E:\Projects\HackerRank_Breaking the Records\Exam\bin\Debug\Exam.exe.config
+E:\Projects\HackerRank_Breaking the Records\Exam\bin\Debug\Exam.exe
+E:\Projects\HackerRank_Breaking the Records\Exam\bin\Debug\Exam.pdb
+E:\Projects\HackerRank_Breaking the Records\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+E:\Projects\HackerRank_Breaking the Records\Exam\obj\Debug\Exam.exe
+E:\Projects\HackerRank_Breaking the Records\Exam\obj\Debug\Exam.pdb
